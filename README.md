@@ -29,3 +29,8 @@ make yourself better
 ## pool - best shots to take
 
 cv, anaylis for best shot considering branching baths based on which shots taken. find angle, power, next shots, etc.
+
+## LAW difference tool
+
+for travelers traveling to countries with different laws, show the most different / important laws to be aware of for differeing cultures
+
