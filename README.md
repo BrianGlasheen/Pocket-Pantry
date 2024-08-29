@@ -40,5 +40,5 @@ for travelers traveling to countries with different laws, show the most differen
 I am planning on moving but have some specific criteria for where I want to go. I want to live within 5 minutes walking of a gas station and away from hospitals. I want to be able to prompt in laanguage for these criteria.
 
 
-
+I am a content creator that does post hoc analysis of real life footage that has lots of background noise but important semantic content. I want to remove the non-information having wavelengths from this footage.
 
