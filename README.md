@@ -34,6 +34,9 @@ cv, anaylis for best shot considering branching baths based on which shots taken
 
 for travelers traveling to countries with different laws, show the most different / important laws to be aware of for differeing cultures
 
+### smart shopping list
+
+user makes a list. additional suggestions can be made based on the date of previous items ordered, ordering patterns, if food is set to expire, or manually. recipes can be suggested based on curent ingredient list, previous orders. recipes can be autonomous suggestions- if a user has 4 ingredients and needs 1, that ingredient and dish could be recommended, or suggestions based on current items on list/ at home.
 
 # user stories
 
