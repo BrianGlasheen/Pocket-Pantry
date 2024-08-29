@@ -34,3 +34,11 @@ cv, anaylis for best shot considering branching baths based on which shots taken
 
 for travelers traveling to countries with different laws, show the most different / important laws to be aware of for differeing cultures
 
+
+# user stories
+
+I am planning on moving but have some specific criteria for where I want to go. I want to live within 5 minutes walking of a gas station and away from hospitals. I want to be able to prompt in laanguage for these criteria.
+
+
+
+
